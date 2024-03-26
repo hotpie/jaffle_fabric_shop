@@ -1,0 +1,6 @@
+az login
+
+az account tenant list
+
+az account list
+az account set  --name "Azure Canvas Shared"

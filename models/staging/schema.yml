@@ -1,5 +1,9 @@
 version: 2
 
+sources:
+  - name: jaffle_fabric_shop
+    schema: stg
+
 models:
   - name: stg_customers
     columns:
